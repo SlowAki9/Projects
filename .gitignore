@@ -1,0 +1,8 @@
+# Не игнорировать Проект модуля 2.ipynb
+!Проект модуля 2.ipynb
+
+# Не игнорировать requirements.txt
+!requirements.txt
+
+# Не игнорировать сам .gitignore
+!.gitignore
