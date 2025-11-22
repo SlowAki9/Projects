@@ -1,5 +1,8 @@
-# Не игнорировать Проект модуля 2.ipynb
-!Проект модуля 2.ipynb
+#Игнорировать project_2.ipynb
+project_2.ipynb
+
+# Не игнорировать project_2_1.ipynb
+!project_2_1.ipynb
 
 # Не игнорировать requirements.txt
 !requirements.txt
