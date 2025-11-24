@@ -1,9 +1,10 @@
 #Игнорировать:
 project_2.ipynb
 project_2_1.ipynb
+project_2_2.ipynb
 connect.env
 
 # Не игнорировать:
-!project_2_2.ipynb
+!project_2_3.ipynb
 !requirements.txt
 !.gitignore
