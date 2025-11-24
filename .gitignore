@@ -1,11 +1,9 @@
-#Игнорировать project_2.ipynb
+#Игнорировать:
 project_2.ipynb
+project_2_1.ipynb
+connect.env
 
-# Не игнорировать project_2_1.ipynb
-!project_2_1.ipynb
-
-# Не игнорировать requirements.txt
+# Не игнорировать:
+!project_2_2.ipynb
 !requirements.txt
-
-# Не игнорировать сам .gitignore
 !.gitignore
